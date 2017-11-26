@@ -1,2 +1,2 @@
 # go-ahocorasick
-Aho-Corasick algorithm in Go
+A cgo wrapper of Aho-Corasick algorithm implemented in snort3
